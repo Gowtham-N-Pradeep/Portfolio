@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.apple{
+    position: relative;
+    width: 200vh;
+    height: 100%;
+    background: #eff4fe;
+}
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color: #3137fd;
+}
+.carrot{
+    margin-left: 8%;
+    margin-top: 15%;
+
+}
+.carrot h1{
+    font-size: 200%;
+    font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+    color: #3137fd;
+    margin-bottom: 2%;
+}
+.carrot p{
+    font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.dawg{
+    margin-left: 8%;
+    margin-top: 20%;
+}
+.dawg h1{
+    font-size: 200%;
+    font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+    margin-bottom: 2%;
+}
+span{
+    color: #3137fd;
+}
+    
